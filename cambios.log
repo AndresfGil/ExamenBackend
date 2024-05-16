@@ -1,0 +1,74 @@
+[2024-05-15 21:58:23] [ WARN ] [BD:24] Syntax error in SQL statement "[*]ID INT AUTO_INCREMENT PRIMARY KEY, NUMERO_MATRICULA INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) NOT NULL) "; expected "INSERT"; SQL statement:
+ID INT AUTO_INCREMENT PRIMARY KEY, NUMERO_MATRICULA INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) NOT NULL)  [42001-224]
+[2024-05-15 21:59:53] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:06:16] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:06:16] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:06:16] [ WARN ] [OdontologoDAOH2:37] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?) [42001-224]
+[2024-05-15 22:06:16] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:06:16] [ WARN ] [OdontologoDAOH2:37] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?) [42001-224]
+[2024-05-15 22:06:16] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:06:16] [ WARN ] [OdontologoDAOH2:37] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?) [42001-224]
+[2024-05-15 22:07:53] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:07:53] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:07:53] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:07:53] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:07:53] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:07:53] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:07:53] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:08:29] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:08:29] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:08:29] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:08:29] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:08:29] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:08:29] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:08:29] [ WARN ] [OdontologoDAOH2:38] Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO [*]VALUES(?,?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (ID, NUMERO_MATRICULA, NOMBRE, APELLIDO VALUES(?,?,?,?) [42001-224]
+[2024-05-15 22:09:13] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:09:13] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:09:13] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:09:13] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:10:54] [ WARN ] [BD:24] Database may be already in use: "C:/Users/ASUS/Examen.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:10:54] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:10:54] [ WARN ] [OdontologoDAOH2:38] Database may be already in use: "C:/Users/ASUS/Examen.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:10:54] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:10:54] [ WARN ] [OdontologoDAOH2:38] Database may be already in use: "C:/Users/ASUS/Examen.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:10:54] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:10:54] [ WARN ] [OdontologoDAOH2:38] Database may be already in use: "C:/Users/ASUS/Examen.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:10:54] [ WARN ] [OdontologoDAOH2:60] Database may be already in use: "C:/Users/ASUS/Examen.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
+[2024-05-15 22:11:12] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:11:12] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:11:12] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:11:12] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:11:12] [ WARN ] [OdontologoDAOH2:60] Table "DONTOLOGOS" not found; SQL statement:
+SELECT * FROM DONTOLOGOS [42102-224]
+[2024-05-15 22:11:38] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:11:38] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:11:38] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:11:38] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:14:24] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:14:24] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:14:24] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:14:24] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:15:30] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:15:30] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:15:30] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:15:30] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:15:30] [ INFO ] [OdontologoDAOH2:59] Listando odontologos
+[2024-05-15 22:16:39] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:16:39] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:39] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:39] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:39] [ INFO ] [OdontologoDAOH2:59] Listando odontologos
+[2024-05-15 22:16:41] [ INFO ] [BD:22] Table odontologos creada
+[2024-05-15 22:16:41] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:41] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:41] [ INFO ] [OdontologoDAOH2:25] Guardando odontologo
+[2024-05-15 22:16:41] [ INFO ] [OdontologoDAOH2:59] Listando odontologos
