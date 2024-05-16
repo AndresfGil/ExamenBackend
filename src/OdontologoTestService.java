@@ -5,6 +5,8 @@ import dao.OdontologoDAOCollection;
 import model.Odontologo;
 import service.OdontologoService;
 import org.junit.jupiter.api.Test;
+import service.OdontologoServiceCollection;
+
 import java.util.List;
 import static org.junit.Assert.assertEquals;
 
@@ -12,13 +14,14 @@ public class OdontologoTestService {
 
     @Test
     public void testAgregarOdontologo() {
-        // Crear una instancia de OdontologoDAOCollection para simular la base de datos en memoria
-        OdontologoDAOCollection daoCollection = new OdontologoDAOCollection();
-        // Crear una instancia de OdontologoService utilizando OdontologoDAOCollection
-        OdontologoService odontologoService = new OdontologoService(daoCollection);
+        OdontologoServiceCollection odontologoServiceCollection = new OdontologoServiceCollection();
 
         // Crear un odontólogo para guardar
         Odontologo odontologo = new Odontologo(1, 227374, "Jorge", "Guzman");
+
+        odontologoServiceCollection.guardarOdontologo(odontologo);
+
+        OdontologoService odontologoService = new OdontologoService();
 
         // Llamar al método guardarOdontologo() para guardar el odontólogo
         odontologoService.guardarOdontologo(odontologo);
